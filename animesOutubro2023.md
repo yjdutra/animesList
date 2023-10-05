@@ -15,9 +15,9 @@
 # Sousou no Frieren
   - 📼 Stream: Crunchyroll
   - 🗓️ Data: Sexta
-  - 🖇️ Link: Em breve
+  - 🖇️ Link:  [Link](https://www.hinatasoul.com/animes/sousou-no-frieren)
   - 🔖 Tags: Fantasia, Aventura
-  - 📑 Episódio (ep): Aguardando informações
+  - 📑 Episódio (ep): 0/28
 
 # Undead Unluck*
   - 📼 Stream: Crunchyroll
@@ -38,7 +38,7 @@
   - 🗓️ Data: Quinta
   - 🖇️ Link: [Link](https://www.hinatasoul.com/animes/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta)
   - 🔖 Tags: Ação, Fantasia, Aventura
-  - 📑 Episódio (ep): Aguardando informações
+  - 📑 Episódio (ep): 0/13
 
 # Tate no Yuusha no Nariagari Season 3
   - 📼 Stream: Crunchyroll
@@ -126,7 +126,7 @@
 
 # Ojou to Banken-kun (A Girl & Her Guard Dog)*
   - 📼 Stream: Crunchyroll
-  - 🗓️ Data: Estreia em 28/09
+  - 🗓️ Data: Estreia em 28/09 - Sabado
   - 🖇️ Link: [Link](https://www.hinatasoul.com/animes/ojou-to-banken-kun)
   - 🔖 Tags: Comédia, Romance, Slice of Life
   - 📑 Episódio (ep): 00/12
@@ -171,9 +171,10 @@
 
 # Seiken Gakuin no Maken Tsukai
   - 📼 Stream: HIDIVE
-  - 🗓️ Data: Ainda não definida
+  - 🗓️ Data: Quarta
   - 🖇️ Link: [Link](https://www.hinatasoul.com/animes/seiken-gakuin-no-makentsukai)
   - 🔖 Tags: Ecchi, Ação, Fantasia
+  - 📑 Episódio (ep): 0/12
 
 # Megumi no Daigo: Kyuukoku no Orange (Firefighter! Daigo of Fire Company M: The Orange of National Salvation)*
   - 📼 Stream: Crunchyroll
